@@ -50,4 +50,4 @@ Write the commands for the following directory changes:
 
 ## Bonus
 
-Using the `mkdir` command, build out the file structure in the diagram and use touch to place a text file called me.txt inside the 'Mexico City' directory. Then use the `mv` command to move 'me.txt' along the path that we made above (Mexico city to Caracas, etc...).
+Using the `mkdir` command, build out the file structure in the diagram and use touch to place a text file called me.txt inside the 'Mexico City' directory. Then use the `mv` command to move 'me.txt' along the path that we made above (Mexico City to Caracas, etc...).
