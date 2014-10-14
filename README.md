@@ -22,7 +22,7 @@ Let's remind ourselves about absolute and relative file paths. If I'm currently 
 cd Earth/NorthAmerica/Canada/Ottawa
 ```
 
-**Relative**, where we write the path based on out current working directory:
+**Relative**, where we write the path based on our current working directory:
 ```
 cd ../Ottawa
 ```
