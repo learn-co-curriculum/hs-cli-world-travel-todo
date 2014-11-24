@@ -15,7 +15,7 @@ We're going to practice our command line file navigation skills by traveling aro
 ###Refresher
 You're going to be using the `cd` command to switch into different directories and travel around the geography tree above. 
 
-Let's quickly review absolute and relative file paths. If I'm currently in the directory called TORONTO and I want to move to another city inside Canada, OTTAWA. There are two ways I can do this.
+Let's quickly review absolute and relative file paths. If I'm currently in the directory called TORONTO and I want to move to another city inside Canada, OTTAWA, there are two ways I can do this:
 
 **Absolute**, where we explicitly write the entire path to the directory where we're trying to go. An absolute path is a path that points to the same location on the file system regardless of the working directory. They start with / because that is the root of your file system.
 ```
