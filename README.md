@@ -33,6 +33,7 @@ So if I wanted to use a relative path to go from Madrid to Peru, I would write:
 cd ../../../SouthAmerica/Peru
 ```
 (I use `..` three times in a row because I need to move up three levels before I can go down the tree.)
+
 ???
 
 ###Your Challenge
