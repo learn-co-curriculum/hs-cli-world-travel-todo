@@ -51,14 +51,14 @@ Write the commands for the following directory changes:
 () cd ../../../Europe
 
 ?: Europe to Africa
-()cd ../Africa
-()cd Africa
-()cd ../../../Africa
+() cd ../Africa
+() cd Africa
+() cd ../../../Africa
 
 ?: Africa to Addis Ababa
-()cd ~/Addis_Ababa
-()cd Addis_Ababa
-()cd Ethiopia/Addis_Ababa
+() cd ~/Addis_Ababa
+() cd Addis_Ababa
+() cd Ethiopia/Addis_Ababa
 
 ?: Addis Ababa to Rome
 () cd ../../../Europe/Italy/Rome
