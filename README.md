@@ -41,9 +41,9 @@ cd ../../../SouthAmerica/Peru
 Write the commands for the following directory changes:
 
 ?: Mexico City to Caracas
-() cd ../../../South_America/Venezuela/Caracas
-() cd Earth/South_America/Caracas
-() cd South_America/Venezuela/Caracas
+() cd ../../../SouthAmerica/Venezuela/Caracas
+() cd Earth/SouthAmerica/Caracas
+() cd SouthAmerica/Venezuela/Caracas
 
 ?: Caracas to Europe
 () cd ../Earth/Europe
@@ -56,9 +56,9 @@ Write the commands for the following directory changes:
 () cd ../../../Africa
 
 ?: Africa to Addis Ababa
-() cd ~/Addis_Ababa
-() cd Addis_Ababa
-() cd Ethiopia/Addis_Ababa
+() cd ~/AddisAbaba
+() cd AddisAbaba
+() cd Ethiopia/AddisAbaba
 
 ?: Addis Ababa to Rome
 () cd ../../../Europe/Italy/Rome
@@ -71,14 +71,14 @@ Write the commands for the following directory changes:
 () cd Earth/Africa/Namibia/Windhoek
 
 ?: Windhoek to Brazilia
-() cd ../../../South_America/Brazil/Brazilia
-() cd ../../South_America/Brazil/Brazilia
+() cd ../../../SouthAmerica/Brazil/Brazilia
+() cd ../../SouthAmerica/Brazil/Brazilia
 () cd ../../Earth/Brazilia
 
 ?: Brazilia to Mexico City to Italy to Beijing
-() cd Earth/Mexcio_City/Beijing/Italy
+() cd Earth/MexcioCity/Beijing/Italy
 () cd ../../Mexico/Italy/Beijing
-() cd ../../../North_America/Mexico/Mexico_city/../../Europe/Italy/../../Asia/China/Beijing
+() cd ../../../NorthAmerica/Mexico/MexicoCity/../../Europe/Italy/../../Asia/China/Beijing
 
 ???
 ###Bonus
