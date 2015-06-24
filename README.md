@@ -42,18 +42,18 @@ Write the commands for the following directory changes:
 
 ?: Mexico City to Caracas
 
-() cd ../../../South_America/Venezuela/Caracas
+(X) cd ../../../South_America/Venezuela/Caracas
 () cd Earth/South_America/Caracas
 () cd South_America/Venezuela/Caracas
 
 ?: Caracas to Europe
 
 () cd ../Earth/Europe
-() cd ../Europe
+(X) cd ../../Europe
 () cd ../../../Europe
 
 ?: Europe to Africa
-() cd ../Africa
+(X) cd ../Africa
 () cd Africa
 () cd ../../../Africa
 
@@ -61,33 +61,31 @@ Write the commands for the following directory changes:
 
 () cd ~/Addis_Ababa
 () cd Addis_Ababa
-() cd Ethiopia/Addis_Ababa
+(X) cd Ethiopia/Addis_Ababa
 
 ?: Addis Ababa to Rome
 
-() cd ../../../Europe/Italy/Rome
+(X) cd ../../../Europe/Italy/Rome
 () cd Europe/Italy/Rome
 () cd Earth/Italy/Rome
 
 ?: Rome to Windhoek
 
 () cd ../Namibia/Windhoek
-() cd ../../../Africa/Namibia/Windhoek
+(X) cd ../../../Africa/Namibia/Windhoek
 () cd Earth/Africa/Namibia/Windhoek
 
 ?: Windhoek to Brazilia
 
 () cd ../../../South_America/Brazil/Brazilia
-() cd ../../South_America/Brazil/Brazilia
+(X) cd ../../South_America/Brazil/Brazilia
 () cd ../../Earth/Brazilia
 
 ?: Brazilia to Mexico City to Italy to Beijing
 
 () cd Earth/Mexcio_City/Beijing/Italy
 () cd ../../Mexico/Italy/Beijing
-() cd ../../../NorthAmerica/Mexico/MexicoCity/../../Europe/Italy/../../Asia/China/Beijing
+(X) cd ../../../NorthAmerica/Mexico/MexicoCity/../../Europe/Italy/../../Asia/China/Beijing
 
 ???
-###Bonus
 
-Using the `mkdir` command, build out the file structure in the diagram and use `touch` to place a text file called `me.txt` inside the 'Mexico City' directory. Then use the `mv` command to move `me.txt` along the path that we made above (Mexico City to Caracas, etc...).
