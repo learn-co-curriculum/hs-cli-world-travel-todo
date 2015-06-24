@@ -42,50 +42,50 @@ Write the commands for the following directory changes:
 
 ?: Mexico City to Caracas
 
-( X ) cd ../../../South_America/Venezuela/Caracas
-() cd Earth/South_America/Caracas
-() cd South_America/Venezuela/Caracas
+(X) cd ../../../South_America/Venezuela/Caracas
+( ) cd Earth/South_America/Caracas
+( ) cd South_America/Venezuela/Caracas
 
 ?: Caracas to Europe
 
-() cd ../Earth/Europe
-( X ) cd ../../Europe
-() cd ../../../Europe
+( ) cd ../Earth/Europe
+(X) cd ../../Europe
+( ) cd ../../../Europe
 
 ?: Europe to Africa
-( X ) cd ../Africa
-() cd Africa
-() cd ../../../Africa
+(X) cd ../Africa
+( ) cd Africa
+( ) cd ../../../Africa
 
 ?: Africa to Addis Ababa
 
-() cd ~/Addis_Ababa
-() cd Addis_Ababa
-( X ) cd Ethiopia/Addis_Ababa
+( ) cd ~/Addis_Ababa
+( ) cd Addis_Ababa
+(X) cd Ethiopia/Addis_Ababa
 
 ?: Addis Ababa to Rome
 
-( X ) cd ../../../Europe/Italy/Rome
-() cd Europe/Italy/Rome
-() cd Earth/Italy/Rome
+(X) cd ../../../Europe/Italy/Rome
+( ) cd Europe/Italy/Rome
+( ) cd Earth/Italy/Rome
 
 ?: Rome to Windhoek
 
-() cd ../Namibia/Windhoek
-( X ) cd ../../../Africa/Namibia/Windhoek
-() cd Earth/Africa/Namibia/Windhoek
+( ) cd ../Namibia/Windhoek
+(X) cd ../../../Africa/Namibia/Windhoek
+( ) cd Earth/Africa/Namibia/Windhoek
 
 ?: Windhoek to Brazilia
 
-() cd ../../../South_America/Brazil/Brazilia
-( X ) cd ../../South_America/Brazil/Brazilia
-() cd ../../Earth/Brazilia
+( ) cd ../../../South_America/Brazil/Brazilia
+(X) cd ../../South_America/Brazil/Brazilia
+( ) cd ../../Earth/Brazilia
 
 ?: Brazilia to Mexico City to Italy to Beijing
 
-() cd Earth/Mexcio_City/Beijing/Italy
-() cd ../../Mexico/Italy/Beijing
-( X ) cd ../../../NorthAmerica/Mexico/MexicoCity/../../Europe/Italy/../../Asia/China/Beijing
+( ) cd Earth/Mexcio_City/Beijing/Italy
+( ) cd ../../Mexico/Italy/Beijing
+(X) cd ../../../NorthAmerica/Mexico/MexicoCity/../../Europe/Italy/../../Asia/China/Beijing
 
 ???
 
