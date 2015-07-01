@@ -5,15 +5,15 @@ level: 1
 type: todo
 ---
 
-##ToDo: World Travel File Navigation
+## ToDo: World Travel File Navigation
 
-We're going to practice our command line file navigation skills by traveling around the world. Get your bags packed!
+We're going to practice our command line file navigation skills by traveling around the world. Get your bags packed! We have a file structure representing the world that looks like this: 
 
 ![alt text](http://www.gliffy.com/go/publish/image/6025639/L.png "Countries Tree")
 [Click here for a larger version](https://camo.githubusercontent.com/508535c0e81338f8d74168b9d04b272ef487661b/687474703a2f2f7777772e676c696666792e636f6d2f676f2f7075626c6973682f696d6167652f363032353633392f4c2e706e67)
 
-###Refresher
-You're going to be using the `cd` command to switch into different directories and travel around the geography tree above. 
+### Refresher
+You're going to be identifying the `cd` command to switch into different directories and travel around the geography tree. 
 
 Let's quickly review absolute and relative file paths. If I'm currently in the directory called TORONTO and I want to move to another city inside Canada, OTTAWA, there are two ways I can do this:
 
@@ -36,7 +36,7 @@ cd ../../../SouthAmerica/Peru
 
 ???
 
-#Your Challenge
+# Your Challenge
 
 Write the commands for the following directory changes:
 
