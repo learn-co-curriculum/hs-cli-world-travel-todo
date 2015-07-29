@@ -1,9 +1,4 @@
----
-tags: cli, kids, bash
-language: cli, bash
-level: 1
-type: todo
----
+
 
 ## ToDo: World Travel File Navigation
 
