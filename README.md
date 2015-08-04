@@ -72,8 +72,8 @@ Write the commands for the following directory changes:
 
 ?: Windhoek to Brazilia
 
-( ) cd ../../../South_America/Brazil/Brazilia
-(X) cd ../../South_America/Brazil/Brazilia
+(X) cd ../../../South_America/Brazil/Brazilia
+( ) cd ../../South_America/Brazil/Brazilia
 ( ) cd ../../Earth/Brazilia
 
 ?: Brazilia to Mexico City to Italy to Beijing
