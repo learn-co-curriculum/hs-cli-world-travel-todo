@@ -44,8 +44,8 @@ Write the commands for the following directory changes:
 ?: Caracas to Europe
 
 ( ) cd ../Earth/Europe
-(X) cd ../../Europe
-( ) cd ../../../Europe
+( ) cd ../../Europe
+(X) cd ../../../Europe
 
 ?: Europe to Africa
 (X) cd ../Africa
