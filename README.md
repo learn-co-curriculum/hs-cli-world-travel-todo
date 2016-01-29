@@ -85,4 +85,4 @@ Write the commands for the following directory changes:
 ???
 
 
-<a href='https://learn.co/lessons/hs-cli-world-travel-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-cli-world-travel-todo' title='ToDo: World Travel File Navigation'>ToDo: World Travel File Navigation</a> on Learn.co and start learning to code for free.</p>
